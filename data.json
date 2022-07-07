@@ -1,0 +1,22 @@
+[
+    {
+        "house name": "my house",
+        "price": 10
+    },
+    {
+        "house name": "second house",
+        "price": 20
+    },
+    {
+        "house name": "third house",
+        "price": 5
+    },
+    {
+        "house name": "fourth house",
+        "price": 5
+    },
+    {
+        "house name": "fifth house",
+        "price": 30
+    }
+]
